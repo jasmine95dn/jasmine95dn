@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hoang Dung, 'd love to be called as Jung/Dung (different typing but both sound the same :'>)
 - 👀 I’m interested in Programming, Deep Learning, Data Science, NLP and Translation
 - 🌱 I’m currently finishing my Bachelor Degree and heading on to my Master in either Computational Linguistics or Data Science
-- 💞️ I’m looking to collaborate on any projects that I can help and can learn
+- 💞️ I’m looking forward to collaborate on any projects that I can help and can learn
 
 
 <!---
