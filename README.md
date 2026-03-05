@@ -2,8 +2,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmine95dn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m Hoang Dung, 'd love to be called as Jung/Dung (different typing but both sound the same :'>)
-- 👀 Interest: Programming, Deep Learning, NLP and Translation, Data Science
-- 🌱 I started my Master in Computational Linguistics recently
+- 👀 Interest: Backend Engineering, Deep Learning, NLP and Translation, Data Science
+- 🌱 I quitted my Master in Computational Linguistics and started my Software Developer career in 2024
 - 💞️ I’m looking forward to collaborate on any projects that I can help and can learn
 
 
