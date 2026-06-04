@@ -55,7 +55,7 @@ Web app for Best-Worst Scaling annotation, a ranking method used in NLP data col
 
 ## GitHub Stats
 
-![jasmine95dn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmine95dn&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmine95dn&layout=compact&hide_border=true)
 
 ***
 
